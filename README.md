@@ -1,2 +1,3 @@
-# algorithms
-Data Structures and Algorithms: coursera course 
+##Data Structures and Algorithms
+* University of California, San Diego
+* National Research University Higher School of Economics
