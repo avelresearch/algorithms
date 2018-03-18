@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala" afterPath="$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,8 +27,8 @@
           <file leaf-file-name="Bipartite.scala" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+                <state relative-caret-position="0">
+                  <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
                   <folding>
                     <element signature="e#22#46#0" expanded="true" />
                   </folding>
@@ -39,22 +36,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ConnectedComponets.scala" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/ConnectedComponets.scala">
+          <file leaf-file-name="Toposort.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="31" column="55" lean-forward="false" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Reachability.scala" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/Reachability.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-                  <folding />
+                <state relative-caret-position="306">
+                  <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#22#46#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -63,13 +52,25 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="GraphWeek03Spec.scala" pinned="false" current-in-tab="true">
+          <file leaf-file-name="GraphWeek03Spec.scala" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="324">
-                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <state relative-caret-position="342">
+                  <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
                   <folding>
                     <element signature="e#23#68#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ToposortSpec.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="126">
+                  <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+                  <folding>
+                    <element signature="e#0#28#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -125,6 +126,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/FriendSuggestion.java" />
         <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/TravellingSalesmanProblem.java" />
         <option value="$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala" />
       </list>
     </option>
   </component>
@@ -200,7 +203,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -209,8 +212,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="week01" type="462c0819:PsiDirectoryNode" />
-              <item name="reachability" type="462c0819:PsiDirectoryNode" />
+              <item name="week02" type="462c0819:PsiDirectoryNode" />
+              <item name="toposort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -231,6 +234,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="week-02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
               <item name="week-03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -523,12 +544,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521309958241</updated>
       <workItem from="1521309959746" duration="4479000" />
-      <workItem from="1521384015013" duration="8491000" />
+      <workItem from="1521384015013" duration="9911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12970000" />
+    <option name="totallyTimeSpent" value="14390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="482" y="23" width="2077" height="1417" extended-state="0" />
@@ -554,7 +575,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34986666" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3130221" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22800983" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -593,7 +614,7 @@
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#22#46#0" expanded="true" />
+            <element signature="e#22#46#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -824,32 +845,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="62" lean-forward="false" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
           <folding>
-            <element signature="e#22#46#0" expanded="true" />
+            <element signature="e#22#46#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec/scala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="72">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
           <folding>
-            <element signature="e#22#46#0" expanded="true" />
+            <element signature="e#23#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -864,9 +883,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/Reachability.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="414">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="e#22#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#22#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
