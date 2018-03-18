@@ -2,7 +2,7 @@
 //import java.util.LinkedList;
 //import java.util.Queue;
 //import java.util.Scanner;
-
+//
 //public class Bipartite {
 //    private static int bipartite(ArrayList<Integer>[] adj) {
 //        //write your code here
@@ -27,4 +27,4 @@
 //        System.out.println(bipartite(adj));
 //    }
 //}
-
+//

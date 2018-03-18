@@ -6,7 +6,7 @@ import graph.week03.BFS
 
 class GraphWeek03Spec extends FlatSpec with Matchers {
 
-  "Graph traver" should " return 2" in {
+  "Graph travers" should " return 2" in {
 
     val n : Int = 4 // Number of vertices
     val m : Int = 4 // Number of edges
