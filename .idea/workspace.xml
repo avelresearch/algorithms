@@ -2,97 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/ConnectedComponents.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/Reachability.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/acyclicity/Acyclicity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/strongly_connected/StronglyConnected.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/clustering/Clustering.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/algorithms-build.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms.iml" afterPath="$PROJECT_DIR$/.idea/modules/algorithms.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/09_graph_decomposition_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/09_graph_decomposition_problems_1.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/ConnectedComponents.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/ConnectedComponents.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/connected_components.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/connected_components.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/Reachability.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/Reachability.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/09_graph_decomposition_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/09_graph_decomposition_problems_2.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/Acyclicity.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/Acyclicity.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/acyclicity.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/acyclicity.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/StronglyConnected.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/StronglyConnected.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/strongly_connected.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/strongly_connected.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/Toposort.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/Toposort.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/toposort.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/toposort.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/9_10_paths_in_graphs_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/9_10_paths_in_graphs_problems_1.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/BFS.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/bfs.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/bfs.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/Bipartite.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/Bipartite.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/bipartite.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/bipartite.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/0_paths_in_graphs_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/0_paths_in_graphs_problems_2.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/Dijkstra.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/Dijkstra.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/dijkstra.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/dijkstra.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/NegativeCycle.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/NegativeCycle.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/negative_cycle.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/negative_cycle.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/ShortestPaths.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/ShortestPaths.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/shortest_paths.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/shortest_paths.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/11_spanning_trees_problems.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/11_spanning_trees_problems.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/Clustering.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/Clustering.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/clustering.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/clustering.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/ConnectingPoints.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/ConnectingPoints.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/connecting_points.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/connecting_points.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.py" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/Advanced-Shortest-Paths.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/Advanced-Shortest-Paths.pdf" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/DistPreprocessLarge.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/DistPreprocessLarge.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.py3" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/DistPreprocessSmall.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/DistPreprocessSmall.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.py3" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/DistWithCoords.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/DistWithCoords.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/dist_with_coords.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/dist_with_coords.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.py3" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/01" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/01.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01.a" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/02" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/02.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02.a" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/03" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/03.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03.a" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/FriendSuggestion.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/FriendSuggestion.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/friend_suggestion.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/friend_suggestion.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.py3" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/TravellingSalesmanProblem.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/TravellingSalesmanProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.cpp" />
-      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.py3" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MainApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/MainApp.scala" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/__init__.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/09_graph_decomposition_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/09_graph_decomposition_problems_1.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/ConnectedComponents.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/connected_components.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/connected_components.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/Reachability.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/09_graph_decomposition_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/09_graph_decomposition_problems_2.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/Acyclicity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/acyclicity/acyclicity.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/acyclicity/acyclicity.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/StronglyConnected.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/strongly_connected/strongly_connected.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/strongly_connected/strongly_connected.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/Toposort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/toposort.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/toposort.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/9_10_paths_in_graphs_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/9_10_paths_in_graphs_problems_1.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/bfs.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/bfs.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/Bipartite.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/bipartite.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/bipartite.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/0_paths_in_graphs_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/0_paths_in_graphs_problems_2.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/Dijkstra.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/dijkstra/Dijkstra.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/dijkstra/dijkstra.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/dijkstra/dijkstra.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/NegativeCycle.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/negative_cycle/NegativeCycle.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/negative_cycle/negative_cycle.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/negative_cycle/negative_cycle.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/ShortestPaths.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/shortest_paths/ShortestPaths.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/shortest_paths/shortest_paths.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week04/shortest_paths/shortest_paths.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/11_spanning_trees_problems.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/11_spanning_trees_problems.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/Clustering.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/clustering/clustering.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/clustering/clustering.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/ConnectingPoints.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/connecting_points.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.py" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/connecting_points.py" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/Advanced-Shortest-Paths.pdf" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/Advanced-Shortest-Paths.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/DistPreprocessLarge.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/DistPreprocessLarge.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/dist_preprocess_large.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.py3" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/dist_preprocess_large.py3" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/DistPreprocessSmall.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_small/DistPreprocessSmall.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_small/dist_preprocess_small.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.py3" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_small/dist_preprocess_small.py3" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/DistWithCoords.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/DistWithCoords.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/dist_with_coords.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.py3" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/dist_with_coords.py3" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/01" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01.a" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/01.a" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/02" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02.a" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/02.a" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/03" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03.a" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/tests/03.a" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/FriendSuggestion.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/FriendSuggestion.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/friend_suggestion.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.py3" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/friend_suggestion.py3" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/TravellingSalesmanProblem.java" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/TravellingSalesmanProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.cpp" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/travelling_salesman_problem.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.py3" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/travelling_salesman_problem.py3" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,34 +122,44 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BFS.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainApp.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/MainApp.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.53341216">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="BFS.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="907">
+                  <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="GraphWeek03Spec.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#23#68#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -155,6 +176,28 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/Runner.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/MainApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-03/bfs/BFS.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-01/connected_components/ConnectedComponents.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-01/reachability/Reachability.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-02/acyclicity/Acyclicity.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-02/strongly_connected/StronglyConnected.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-02/toposort/Toposort.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-03/bfs/BFS.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-03/bipartite/Bipartite.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week04/dijkstra/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week04/negative_cycle/NegativeCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week04/shortest_paths/ShortestPaths.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week-05/clustering/Clustering.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/DistPreprocessLarge.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_small/DistPreprocessSmall.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/DistWithCoords.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/FriendSuggestion.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/TravellingSalesmanProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala" />
       </list>
     </option>
   </component>
@@ -169,9 +212,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="337" />
+    <option name="x" value="226" />
     <option name="y" value="23" />
-    <option name="width" value="1695" />
+    <option name="width" value="2333" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
@@ -215,6 +258,63 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="week03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="week03" type="462c0819:PsiDirectoryNode" />
+              <item name="bfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="week06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="week-03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,6 +332,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -254,12 +355,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BFS">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="graph.week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="graph.week03.BFS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithms" />
+      <envs />
     </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -401,14 +521,19 @@
       <envs />
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BFS" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainApp" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.BFS" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1521309970262" />
+    <option name="lastUpdateTimestamp" value="1521391260433" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -480,15 +605,15 @@
       <option name="presentableId" value="Default" />
       <updated>1521309958241</updated>
       <workItem from="1521309959746" duration="4479000" />
-      <workItem from="1521384015013" duration="634000" />
+      <workItem from="1521384015013" duration="6677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5113000" />
+    <option name="totallyTimeSpent" value="11156000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="337" y="23" width="1695" height="1417" extended-state="0" />
+    <frame x="226" y="23" width="2333" height="1417" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -497,6 +622,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -508,9 +634,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48699334" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29038113" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35006547" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24759616" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -520,7 +646,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -544,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
@@ -552,14 +677,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/dist_preprocess_large.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-47">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.py">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -567,32 +693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/Reachability.java">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -605,11 +709,201 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/ConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/Reachability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="29" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MainApp.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/strongly_connected/StronglyConnected.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
+          <folding>
+            <marker date="1521387680546" expanded="false" signature="282:291" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="30" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/acyclicity/Acyclicity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week04/dijkstra/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week04/shortest_paths/ShortestPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week04/negative_cycle/NegativeCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#628#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week05/clustering/Clustering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/DistPreprocessLarge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <marker date="1521387874652" expanded="false" signature="1679:1686" ph="&lt;~&gt;" />
+            <marker date="1521387874652" expanded="false" signature="5154:5184" ph="/unchecked/" />
+            <marker date="1521387874652" expanded="false" signature="5304:5334" ph="/unchecked/" />
+            <marker date="1521387874652" expanded="false" signature="5502:5532" ph="/unchecked/" />
+            <marker date="1521387874652" expanded="false" signature="5664:5694" ph="/unchecked/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_small/DistPreprocessSmall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <marker date="1521387886059" expanded="false" signature="1679:1686" ph="&lt;~&gt;" />
+            <marker date="1521387886059" expanded="false" signature="5154:5184" ph="/unchecked/" />
+            <marker date="1521387886059" expanded="false" signature="5304:5334" ph="/unchecked/" />
+            <marker date="1521387886059" expanded="false" signature="5502:5532" ph="/unchecked/" />
+            <marker date="1521387886059" expanded="false" signature="5664:5694" ph="/unchecked/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_with_coords/DistWithCoords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="33" column="43" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/friend_suggestion/FriendSuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/travelling_salesman_problem/TravellingSalesmanProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding>
+            <marker date="1521387921554" expanded="false" signature="1685:1692" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#905#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
