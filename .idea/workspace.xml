@@ -2,8 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/MainApp.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/algorithms-build.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algorithms.iml" afterPath="$PROJECT_DIR$/.idea/modules/algorithms.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/09_graph_decomposition_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/09_graph_decomposition_problems_1.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/ConnectedComponents.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/ConnectedComponents.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/connected_components.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/connected_components/connected_components.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/connected_components/connected_components.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/Reachability.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/Reachability.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/09_graph_decomposition_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/09_graph_decomposition_problems_2.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/Acyclicity.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/Acyclicity.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/acyclicity.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/acyclicity/acyclicity.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/acyclicity/acyclicity.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/StronglyConnected.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/StronglyConnected.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/strongly_connected.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/strongly_connected/strongly_connected.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/strongly_connected/strongly_connected.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/Toposort.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/Toposort.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/toposort.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-02/toposort/toposort.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-02/toposort/toposort.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/9_10_paths_in_graphs_problems_1.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/9_10_paths_in_graphs_problems_1.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/BFS.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/bfs.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bfs/bfs.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/bfs.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/Bipartite.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/Bipartite.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/bipartite.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-03/bipartite/bipartite.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-03/bipartite/bipartite.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/0_paths_in_graphs_problems_2.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/0_paths_in_graphs_problems_2.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/Dijkstra.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/Dijkstra.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/dijkstra.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/dijkstra/dijkstra.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/dijkstra/dijkstra.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/NegativeCycle.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/NegativeCycle.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/negative_cycle.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/negative_cycle/negative_cycle.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/negative_cycle/negative_cycle.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/ShortestPaths.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/ShortestPaths.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/shortest_paths.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-04/shortest_paths/shortest_paths.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-04/shortest_paths/shortest_paths.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/11_spanning_trees_problems.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/11_spanning_trees_problems.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/Clustering.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/Clustering.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/clustering.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/clustering/clustering.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/clustering/clustering.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/ConnectingPoints.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/ConnectingPoints.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/connecting_points.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-05/connecting_points/connecting_points.py" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-05/connecting_points/connecting_points.py" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/Advanced-Shortest-Paths.pdf" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/Advanced-Shortest-Paths.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/DistPreprocessLarge.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/DistPreprocessLarge.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.py3" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/DistPreprocessSmall.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/DistPreprocessSmall.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_small/dist_preprocess_small.py3" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/DistWithCoords.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/DistWithCoords.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/dist_with_coords.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/dist_with_coords.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/dist_with_coords.py3" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/01" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/01.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/01.a" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/02" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/02.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/02.a" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/03" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/dist_with_coords/tests/03.a" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/dist_with_coords/tests/03.a" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/FriendSuggestion.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/FriendSuggestion.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/friend_suggestion.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/friend_suggestion/friend_suggestion.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/friend_suggestion/friend_suggestion.py3" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/TravellingSalesmanProblem.java" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/TravellingSalesmanProblem.java" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.cpp" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.py3" afterPath="$PROJECT_DIR$/src/main/3_graphs/week-06/travelling_salesman_problem/travelling_salesman_problem.py3" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MainApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/MainApp.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,44 +111,12 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BFS.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reachability.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reachability.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/Reachability.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reachability.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="1008">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,14 +125,22 @@
       <file leaf-file-name="MainApp.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/MainApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,15 +206,21 @@
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="3_graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -159,6 +231,9 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/6_genome_assembly" />
       <recent name="$PROJECT_DIR$/src/5_advanced_complexity" />
@@ -404,49 +479,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521309958241</updated>
-      <workItem from="1521309959746" duration="4051000" />
+      <workItem from="1521309959746" duration="4479000" />
+      <workItem from="1521384015013" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4051000" />
+    <option name="totallyTimeSpent" value="5113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="337" y="23" width="1695" height="1417" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.50210714" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48699334" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28675136" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48699334" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29038113" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +536,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/MainApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-06/dist_preprocess_large/dist_preprocess_large.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/Reachability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-01/reachability/reachability.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -468,36 +589,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.cpp">
+    <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/BFS.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1008">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/Reachability.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MainApp.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/3_graphs/week-01/reachability/reachability.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MainApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
