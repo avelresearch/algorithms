@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="" />
+    <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/_286667e9d63065155e489921cf80602d_ProgrammingAssignment1.pdf" afterPath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/_ProgrammingAssignment1.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/_c292189ab8d863cafc444bd156068b88_ProgrammingAssignment3.pdf" afterPath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/_ProgrammingAssignment3.pdf" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/_eef54e2a950f8a5fecba5bf23e656dbf_ProgrammingAssignment2.pdf" afterPath="$PROJECT_DIR$/src/main/scala/6_genome_assembly/f_ProgrammingAssignment2.pdf" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -145,7 +150,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="5_advanced_complexity" type="462c0819:PsiDirectoryNode" />
+              <item name="6_genome_assembly" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -438,12 +443,12 @@
       <workItem from="1521384015013" duration="9911000" />
       <workItem from="1521399328980" duration="14000" />
       <workItem from="1521400765287" duration="444000" />
-      <workItem from="1521487656307" duration="3104000" />
+      <workItem from="1521487656307" duration="3375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17952000" />
+    <option name="totallyTimeSpent" value="18223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1816" height="1417" extended-state="0" />
