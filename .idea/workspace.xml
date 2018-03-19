@@ -131,6 +131,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="4_strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -422,12 +430,12 @@
       <workItem from="1521384015013" duration="9911000" />
       <workItem from="1521399328980" duration="14000" />
       <workItem from="1521400765287" duration="444000" />
-      <workItem from="1521487656307" duration="1192000" />
+      <workItem from="1521487656307" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16040000" />
+    <option name="totallyTimeSpent" value="17117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1816" height="1417" extended-state="0" />
