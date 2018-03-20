@@ -12,7 +12,7 @@ class MaxPairwiseProductSpec extends FlatSpec with Matchers {
 
     val pp = MaxPairwiseProduct( s.length, s)
 
-    assertResult( 6 )( pp.max() )
+    assertResult( 6 )( pp.max2() )
   }
 
 }

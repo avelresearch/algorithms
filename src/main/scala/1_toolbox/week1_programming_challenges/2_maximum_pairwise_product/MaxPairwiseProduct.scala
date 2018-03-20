@@ -32,4 +32,13 @@ case class MaxPairwiseProduct(n: Int, s: Seq[Int]) {
     r.max
   }
 
+  private def getMax(top: Int, s: Seq[Int]) : Int =
+    s.foldLeft(0)( (r: Int, x :Int) => if (x != top && r < x) x else r  )
+
+  def max2() : Int = {
+    val t1 = getMax(0, s)
+    val t2 = getMax(t1, s)
+    t1 * t2
+  }
+
 }
