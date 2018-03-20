@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MainApp.scala" afterPath="$PROJECT_DIR$/src/main/scala/AppRunner.scala" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" afterPath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java" afterPath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,18 +32,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AppRunner.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/AppRunner.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +83,17 @@
         <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/AppRunner.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" />
       </list>
     </option>
   </component>
@@ -97,8 +108,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="306" />
     <option name="y" value="23" />
-    <option name="width" value="1816" />
+    <option name="width" value="1847" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
@@ -118,7 +130,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -159,12 +170,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="6_genome_assembly" type="462c0819:PsiDirectoryNode" />
+              <item name="1_toolbox" type="462c0819:PsiDirectoryNode" />
+              <item name="week1_programming_challenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="1_toolbox" type="462c0819:PsiDirectoryNode" />
+              <item name="week1_programming_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="1_sum_of_two_digits" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +196,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="SuffixArray.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java&#10;BWMatching.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week02/bwmatching/BWMatching.java&#10;is_bst.java:67&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst/is_bst.java&#10;is_bst.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java&#10;SuffixArrayMatching.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java&#10;Evacuation.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java&#10;PlanParty.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java&#10;is_bst_hard.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java&#10;AirlineCrews.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java&#10;ConnectingPoints.scala&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala&#10;ConnectingPoints.scala:&#9;null&#9;null&#10;APlusB&#9;PSI&#9;JAVA://APlusB&#10;TrieMatchingExtended.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java&#10;TrieMatchingExtended.java:&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -452,16 +476,16 @@
       <workItem from="1521384015013" duration="9911000" />
       <workItem from="1521399328980" duration="14000" />
       <workItem from="1521400765287" duration="444000" />
-      <workItem from="1521487656307" duration="3443000" />
+      <workItem from="1521487656307" duration="3463000" />
+      <workItem from="1521569733464" duration="571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18291000" />
+    <option name="totallyTimeSpent" value="18882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1816" height="1417" extended-state="0" />
-    <editor active="true" />
+    <frame x="306" y="23" width="1847" height="1417" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -481,8 +505,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31285232" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23167983" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44487536" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25060385" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -509,27 +533,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding>
-            <element signature="e#23#68#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -537,43 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week02/toposort/Toposort.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bipartite/Bipartite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding>
-            <element signature="e#23#68#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,33 +761,123 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/scala/week1_programming_challenges/1_sum_of_two_digits/APlusB.rs" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/scala/week1_programming_challenges/1_sum_of_two_digits/APlusB.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AppRunner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <element signature="e#23#68#0" expanded="false" />
+            <element signature="e#0#1536#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/scala/week1_programming_challenges/1_sum_of_two_digits/APlusB.rs">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/scala/week1_programming_challenges/1_sum_of_two_digits/APlusB.js">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/AppRunner.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#4131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#3421#0" expanded="true" />
+            <marker date="1521570235879" expanded="false" signature="2432:2452" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <marker date="1521570197133" expanded="true" signature="2:2158" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
