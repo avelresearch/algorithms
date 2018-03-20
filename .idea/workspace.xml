@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="341fbfdd-2add-4fe7-97d9-6eb5aa0b39e9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" afterPath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java" afterPath="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala" afterPath="$PROJECT_DIR$/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java" afterPath="$PROJECT_DIR$/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java" afterPath="$PROJECT_DIR$/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.scala" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,7 +23,38 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="MaxPairwiseProduct.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="558">
+                  <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="MaxPairwiseProductSpec.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/MaxPairwiseProductSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#22#55#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,6 +116,11 @@
         <option value="$PROJECT_DIR$/src/main/scala/2_data_structures/week06/is_bst/is_bst.java" />
         <option value="$PROJECT_DIR$/src/main/scala/4_strings/week02/bwmatching/BWMatching.java" />
         <option value="$PROJECT_DIR$/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java" />
+        <option value="$PROJECT_DIR$/src/test/scala/1_toolbox/MaxPairwiseProductSpec/scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/1_toolbox/MaxPairwiseProductSpec.scala" />
       </list>
     </option>
   </component>
@@ -108,9 +135,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="306" />
+    <option name="x" value="165" />
     <option name="y" value="23" />
-    <option name="width" value="1847" />
+    <option name="width" value="2392" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
@@ -181,7 +208,28 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="1_toolbox" type="462c0819:PsiDirectoryNode" />
               <item name="week1_programming_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="1_sum_of_two_digits" type="462c0819:PsiDirectoryNode" />
+              <item name="2_maximum_pairwise_product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="1_toolbox" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,16 +247,16 @@
     <property name="SearchEverywhereHistoryKey" value="SuffixArray.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week02/suffix_array/SuffixArray.java&#10;BWMatching.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week02/bwmatching/BWMatching.java&#10;is_bst.java:67&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst/is_bst.java&#10;is_bst.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java&#10;SuffixArrayMatching.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week03/suffix_array_matching/SuffixArrayMatching.java&#10;Evacuation.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week01/evacuation/Evacuation.java&#10;PlanParty.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week04/plan_party/PlanParty.java&#10;is_bst_hard.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/2_data_structures/week06/is_bst_hard/is_bst_hard.java&#10;AirlineCrews.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/5_advanced_complexity/week01/airline_crews/AirlineCrews.java&#10;ConnectingPoints.scala&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/3_graphs/week05/connecting_points/ConnectingPoints.scala&#10;ConnectingPoints.scala:&#9;null&#9;null&#10;APlusB&#9;PSI&#9;JAVA://APlusB&#10;TrieMatchingExtended.java&#9;FILE&#9;file:///Users/pavel/Sources/courses/algorithms/src/main/scala/4_strings/week01/trie_matching_extended/TrieMatchingExtended.java&#10;TrieMatchingExtended.java:&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/scala" />
-      <recent name="$PROJECT_DIR$/src/main" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/6_genome_assembly" />
       <recent name="$PROJECT_DIR$/src/5_advanced_complexity" />
       <recent name="$PROJECT_DIR$/src/4_strings" />
       <recent name="$PROJECT_DIR$/src/3_graphs" />
       <recent name="$PROJECT_DIR$/src/2_data_structures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,12 +271,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BFS">
+  <component name="RunManager" selected="Application.APlusB">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="APlusB" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="APlusB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithms" />
+      <envs />
     </configuration>
     <configuration name="BFS" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -389,14 +451,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.MainApp" />
       <item index="1" class="java.lang.String" itemvalue="Application.BFS" />
+      <item index="2" class="java.lang.String" itemvalue="Application.APlusB" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.BFS" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.APlusB" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BFS" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -477,15 +541,15 @@
       <workItem from="1521399328980" duration="14000" />
       <workItem from="1521400765287" duration="444000" />
       <workItem from="1521487656307" duration="3463000" />
-      <workItem from="1521569733464" duration="571000" />
+      <workItem from="1521569733464" duration="4271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18882000" />
+    <option name="totallyTimeSpent" value="22582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="306" y="23" width="1847" height="1417" extended-state="0" />
+    <frame x="165" y="23" width="2392" height="1417" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -500,15 +564,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44487536" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25060385" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3012766" sideWeight="0.49789283" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25024202" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -517,9 +583,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948422" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,56 +597,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/AppRunner.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week03/bfs/BFS.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week06/dist_preprocess_large/dist_preprocess_large.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/reachability/reachability.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/MainApp.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/3_graphs/week-03/bfs/__init__.py" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/3_graphs/week01/connected_components/ConnectedComponents.java">
@@ -750,13 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-03/GraphWeek03Spec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -779,7 +786,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1536#0" expanded="true" />
+            <element signature="e#0#1536#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -805,7 +812,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2855#0" expanded="true" />
+            <element signature="e#0#2855#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,7 +822,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2540#0" expanded="true" />
+            <element signature="e#0#2540#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -825,7 +832,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding>
-            <element signature="e#0#4131#0" expanded="true" />
+            <element signature="e#0#4131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -835,7 +842,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2051#0" expanded="true" />
+            <element signature="e#0#2051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -845,7 +852,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2041#0" expanded="true" />
+            <element signature="e#0#2041#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -855,7 +862,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding>
-            <element signature="e#0#3421#0" expanded="true" />
+            <element signature="e#0#3421#0" expanded="false" />
             <marker date="1521570235879" expanded="false" signature="2432:2452" ph="&lt;~&gt;" />
           </folding>
         </state>
@@ -866,7 +873,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1946#0" expanded="true" />
+            <element signature="e#0#1946#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -877,6 +884,72 @@
           <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
           <folding>
             <marker date="1521570197133" expanded="true" signature="2:2158" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct/scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="55" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/MaxPairwiseProductSpec/scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/3_graphs/week-02/ToposortSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/1_sum_of_two_digits/APlusB.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/collection/IterableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="280" column="6" lean-forward="false" selection-start-line="280" selection-start-column="6" selection-end-line="280" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/MaxPairwiseProductSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#22#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
