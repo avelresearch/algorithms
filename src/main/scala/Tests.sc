@@ -1,13 +1,19 @@
-val s = Seq(1, 2, 3)
+def compute(num : Int) : List[Int] = {
+  val coins = List(1, 5, 10)
+  var found: List[Int] = List()
+  def computeHelper(base: List[Int], acc: Int, searchFor: Int): List[Int] = acc match {
+    case y: Int if (y == searchFor) => {
+      found = base
+      base
+    }
+    case _ => (for {
+      t <- coins
+      if (acc + t <= searchFor)
+    } yield t).map(h => if (base.length < found.length || found.isEmpty)
+      computeHelper(h :: base, acc + h, searchFor) else found).minBy(_.length)
+  }
+  val divRes : Int = num / 10
+  List.fill(divRes)(10) ::: computeHelper(List(), 0, (num - divRes * 10) )
+}
 
-def max(top: Int, s: Seq[Int]) : Int =
-  s.foldLeft(0)( (r: Int, x :Int) => if (x != top && r < x) x else r  )
-
-
-val t1 = max(0, s)
-
-val t2 = max(t1, s)
-
-t2 * t1
-
-
+compute(127).length
