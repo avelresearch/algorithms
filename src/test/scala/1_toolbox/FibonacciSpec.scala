@@ -8,7 +8,7 @@ import toolbox.week2.Fibonacci
 class FibonacciSpec extends FlatSpec
   with Matchers with TimeLimitedTests {
 
-  val timeLimit = Span(2, Millis)
+  val timeLimit = Span(15, Millis)
 
   "For 2" should "be  1" in {
     val actual = Fibonacci(1).calc()
