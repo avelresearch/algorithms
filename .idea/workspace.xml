@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="925d867c-c9f5-4ad0-95a2-1554f88d2b61" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/1_toolbox/LargestNumberSpec.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Tests.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Tests.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -27,20 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestNumber.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CoveringSegments.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="370">
+              <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -48,8 +35,17 @@
       <file leaf-file-name="CoveringSegmentsSpec.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            <state relative-caret-position="225">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Tests.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -64,13 +60,13 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/Tests.sc" />
         <option value="$PROJECT_DIR$/src/test/scala/1_toolbox/KnapsackSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.java" />
         <option value="$PROJECT_DIR$/src/test/scala/1_toolbox/LargestNumberSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tests.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala" />
       </list>
@@ -86,9 +82,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
+    <option name="x" value="96" />
     <option name="y" value="23" />
-    <option name="width" value="1188" />
+    <option name="width" value="1288" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -113,6 +109,13 @@
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -278,15 +281,15 @@
       <option name="presentableId" value="Default" />
       <updated>1528039045464</updated>
       <workItem from="1528039046998" duration="8978000" />
-      <workItem from="1528086462842" duration="2739000" />
+      <workItem from="1528086462842" duration="12684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11717000" />
+    <option name="totallyTimeSpent" value="21662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="23" width="1188" height="877" extended-state="0" />
+    <frame x="96" y="23" width="1288" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -304,7 +307,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4982548" weight="0.5474359" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35253054" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35232744" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,6 +330,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/Tests.sc</url>
+          <line>51</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.scala">
@@ -402,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Tests.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/KnapsackSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -444,20 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/LargestNumberSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -465,10 +459,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/6_maximum_salary/LargestNumber.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Tests.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/1_toolbox/week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/1_toolbox/CoveringSegmentsSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
