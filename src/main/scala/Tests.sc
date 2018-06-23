@@ -1,39 +1,3 @@
-<<<<<<< HEAD
-import scala.collection.mutable.ListBuffer
-
-case class Range(st: Int, en: Int) {
-
-  def ?(e: Int): Boolean = e >= st && e <= en
-
-  def toList: List[Int] = List(st, en)
-}
-
-
-//val ls = List( Range(4, 7), Range(1, 3), Range(2, 5), Range(5, 6) )
-val l = List(Range(1, 3), Range(2, 5), Range(3, 6))
-
-val lf = l.flatMap(x => x.toList)
-
-val min = lf.min
-
-val max = lf.max
-
-def maxCover(min: Int, max: Int, ls: List[Range]) = {
-
-//  val r = (min to max)
-//    .map(i => ls.map(l => l ? i).count(e => e == true))
-//    .max
-
-  val r = (min to max)
-    .map(i => ls.map(l => (l ? i, i))
-      .filter(e => e._1)
-    )
-
-  r.toList
-    .map(r => (r.length, r.head._2) )
-    .maxBy(_._1)
-    ._2
-=======
 // Kruskal algorithm:
 // https://www.coursera.org/learn/algorithms-on-graphs/supplement/i6bTE/slides-and-external-references
 
@@ -88,36 +52,9 @@ case class Graph(edges: Seq[Edge], n: Int){
   }
 
 
->>>>>>> DisjointSet implementation | Find minumwqum spanning tree
 }
 
-val m = maxCover(min, max, l)
 
-//
-//def cover(ls: List[Range], acc: List[Int]): List[Int] = ls match {
-//  case Nil => acc
-//  case s => {
-//
-//    val lf = s.flatMap(x => x.toList)
-//
-//    val min = lf.min
-//
-//    val max = lf.max
-//
-//    val c = maxCover(min, max, s)
-//
-//    val res = s.partition(e => e ? c)
-//
-//    println( s"DEB: $c")
-//
-//    cover(res._2, c :: acc)
-//  }
-//}
-
-<<<<<<< HEAD
-//val res = cover(l, List() )
-
-=======
 //val g = new Graph(es2.toList, 6)
 
 //val r = g.hasCycle()
@@ -163,4 +100,3 @@ val res = lb.toList
 //
 //val g = Graph(es2)
 //g.hasCycle()
->>>>>>> DisjointSet implementation | Find minumwqum spanning tree
