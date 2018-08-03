@@ -1,3 +1,4 @@
+import java.io.{File, PrintWriter}
 //def dfs(from: Int, to: Int, N: Int)(implicit graph: Array[(Int, Int)]): Int = {
 //  val visited = Array.fill[Int](N)(0)
 //
@@ -22,6 +23,20 @@
 //
 //print("Done")
 
-//val writer = new PrintWriter(new File("output.txt"))
+
+/*
+val writer = new PrintWriter(new File("/Users/pavel/Sources/output.txt"))
+writer.write("Hello, world!")
+writer.close()
+*/
+
+val N = 3000
+
+val nodes = (1 to N).toList
+val edges = nodes.zip(nodes.tail )
+
+val wr = new PrintWriter(new File("/Users/pavel/Sources/graph.txt"))
 //writer.write("Hello, world!")
-//writer.close()
+wr.write(s"$N ${N- 1}\n")
+edges.foreach(node => wr.write(s"${node._1} ${node._2}\n") )
+wr.close()
